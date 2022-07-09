@@ -1,5 +1,5 @@
 - Hi, I'm @Manoele-Aparecida
-- 👀 I'm starting in the technology area, because it's something that interests me a lot, but only now did I have the opportunity to start joining.
+- 👀 I'm starting in the technology area, because it's something that interests me a lot, but only now I have the opportunity to start joining.
 I also really like anime and games.
 - 🌱 I'm learning code and using git hub.
 - 💞️ I'm looking to improve my codes both in git and other platforms
